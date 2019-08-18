@@ -1,3 +1,3 @@
 firmware.bin
-obj
-out
+obj*
+out*
