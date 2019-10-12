@@ -38,7 +38,7 @@
 // how often will be temperature, moisture, etc. measured in normal mode (ms)
 #define SENSOR_UPDATE_NORMAL_INTERVAL           (10 * 60 * 1000)
 // Set variable for water pump GPIO pin
-#define WATER_PUMP_POWER_ID                     BC_GPIO_P7
+#define WATER_PUMP_POWER_ID                     BC_GPIO_P17
 // Set variables for water float sensors for low/high water level
 #define WATER_FLOAT_LOW_POWER_ID                BC_GPIO_P8
 #define WATER_FLOAT_HIGH_POWER_ID               BC_GPIO_P9
